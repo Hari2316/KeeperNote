@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/KeeperNote/static/js/main.ab8005ce.js",
+    "static/js/787.62edfb42.chunk.js": "/KeeperNote/static/js/787.62edfb42.chunk.js",
+    "index.html": "/KeeperNote/index.html",
+    "main.ab8005ce.js.map": "/KeeperNote/static/js/main.ab8005ce.js.map",
+    "787.62edfb42.chunk.js.map": "/KeeperNote/static/js/787.62edfb42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ab8005ce.js"
+  ]
+}
